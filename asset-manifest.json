@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/trpo_labs/static/css/main.073c9b0a.css",
-    "main.js": "/trpo_labs/static/js/main.0957980f.js",
+    "main.js": "/trpo_labs/static/js/main.6b91be63.js",
     "static/js/787.28cb0dcd.chunk.js": "/trpo_labs/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/trpo_labs/index.html",
     "main.073c9b0a.css.map": "/trpo_labs/static/css/main.073c9b0a.css.map",
-    "main.0957980f.js.map": "/trpo_labs/static/js/main.0957980f.js.map",
+    "main.6b91be63.js.map": "/trpo_labs/static/js/main.6b91be63.js.map",
     "787.28cb0dcd.chunk.js.map": "/trpo_labs/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.0957980f.js"
+    "static/js/main.6b91be63.js"
   ]
 }
