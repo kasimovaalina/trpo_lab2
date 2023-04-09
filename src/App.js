@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <h1>~Приложение работает~</h1>
-      <iframe title='naruto' src="https://giphy.com/embed/ohT97gdpR40vK" width="480" height="288" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/naruto-chibi-ohT97gdpR40vK">via GIPHY</a></p>
+      <iframe src="https://giphy.com/embed/qIE7nKYuG4jZK" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/naruto-shippuden-sasuke-sakura-qIE7nKYuG4jZK">via GIPHY</a></p>
     </div>
   );
 }
